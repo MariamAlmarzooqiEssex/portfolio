@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
+  <diagram name="Page-1" id="aeK44UtDHJ3ucNhIx73Y">
+    <mxGraphModel dx="3213" dy="1211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KE-OG8v4bT4sI0yrxZhI-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="80" width="810" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="KE-OG8v4bT4sI0yrxZhI-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Orchestrator&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp;• Loads policy&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp;• Coordinates&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Monitoring&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="140" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KE-OG8v4bT4sI0yrxZhI-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KE-OG8v4bT4sI0yrxZhI-2" target="KE-OG8v4bT4sI0yrxZhI-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-470" y="413" />
+              <mxPoint x="-470" y="413" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE-OG8v4bT4sI0yrxZhI-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Discovery&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp;Agent&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;• Scan FS&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;• Filters&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;• Enqueue&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="342.5" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KE-OG8v4bT4sI0yrxZhI-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KE-OG8v4bT4sI0yrxZhI-3" target="KE-OG8v4bT4sI0yrxZhI-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-190" y="421" />
+              <mxPoint x="-190" y="421" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE-OG8v4bT4sI0yrxZhI-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Processing&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Agent&amp;nbsp;&lt;/font&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;• SHA-256&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;• Metadata&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;• Store DB&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="345" width="195" height="157.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KE-OG8v4bT4sI0yrxZhI-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Packaging&amp;nbsp; Agent&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;• CSV/JSON&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;• Encrypt&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;• Custody&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="345" width="160" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="KE-OG8v4bT4sI0yrxZhI-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KE-OG8v4bT4sI0yrxZhI-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-100" y="400" as="sourcePoint" />
+            <mxPoint x="-360" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE-OG8v4bT4sI0yrxZhI-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="290" as="sourcePoint" />
+            <mxPoint x="-360" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE-OG8v4bT4sI0yrxZhI-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="340" as="sourcePoint" />
+            <mxPoint x="-70" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE-OG8v4bT4sI0yrxZhI-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-630" y="290" as="sourcePoint" />
+            <mxPoint x="-350" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE-OG8v4bT4sI0yrxZhI-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.406;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KE-OG8v4bT4sI0yrxZhI-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-100" y="400" as="sourcePoint" />
+            <mxPoint x="-630" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE-OG8v4bT4sI0yrxZhI-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-360" y="345" as="sourcePoint" />
+            <mxPoint x="-360" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

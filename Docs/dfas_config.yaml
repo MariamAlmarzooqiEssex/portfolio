@@ -1,0 +1,18 @@
+case_id: a7a9ea4a-e533-47ac-8656-b65f5eac14ea
+collected_by: khiza@DESKTOP-SAMAV2U
+exclude_paths:
+- __pycache__
+- .git
+- .venv
+max_file_size: 104857600
+output_dir: ./evidence_packages
+scan_paths:
+- .
+target_extensions:
+- .pdf
+- .docx
+- .xlsx
+- .txt
+- .jpg
+- .png
+- .zip

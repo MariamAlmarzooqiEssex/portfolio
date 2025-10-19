@@ -1,0 +1,124 @@
+2025-10-14 01:18:59,344 - __main__ - INFO - Created default configuration: dfas_config.yaml
+2025-10-14 01:18:59,618 - __main__ - INFO - Database initialized at evidence_a7a9ea4a-e533-47ac-8656-b65f5eac14ea.db
+2025-10-14 01:18:59,619 - __main__ - INFO - Agent Orchestrator initialized
+2025-10-14 01:18:59,619 - __main__ - INFO - Agent Discovery initialized
+2025-10-14 01:18:59,619 - __main__ - INFO - Agent Processing initialized
+2025-10-14 01:18:59,620 - __main__ - INFO - Agent Packaging initialized
+2025-10-14 01:18:59,625 - __main__ - INFO - Starting digital forensics collection
+2025-10-14 01:18:59,626 - __main__ - INFO - Agent Discovery started
+2025-10-14 01:18:59,627 - __main__ - INFO - Agent Processing started
+2025-10-14 01:18:59,726 - __main__ - INFO - Scanning path: .
+2025-10-14 01:18:59,828 - __main__ - INFO - Processing file: code.txt
+2025-10-14 01:18:59,855 - __main__ - INFO - Discovery complete. Found 17 files
+2025-10-14 01:19:00,072 - __main__ - INFO - Evidence record inserted: 26c8f4d8-d1d6-4ff1-b1e3-83d99487dfd6
+2025-10-14 01:19:00,072 - __main__ - INFO - Processed file: code.txt (Hash: af770fb5705cc8c2...)
+2025-10-14 01:19:00,073 - __main__ - INFO - Processing file: pa_dia.jpg
+2025-10-14 01:19:00,198 - __main__ - INFO - Evidence record inserted: 9bd3cd63-a376-4e9d-a873-ef542cdb3af5
+2025-10-14 01:19:00,198 - __main__ - INFO - Processed file: pa_dia.jpg (Hash: 2fdafd19baa8e179...)
+2025-10-14 01:19:00,199 - __main__ - INFO - Processing file: requirements.txt
+2025-10-14 01:19:00,316 - __main__ - INFO - Evidence record inserted: cd56459b-2e3b-4ee3-883d-78c84714a94c
+2025-10-14 01:19:00,316 - __main__ - INFO - Processed file: requirements.txt (Hash: b68aa864619ddcad...)
+2025-10-14 01:19:00,317 - __main__ - INFO - Processing file: test_evidence\document1.txt
+2025-10-14 01:19:00,430 - __main__ - INFO - Evidence record inserted: b558cbf7-6067-465f-ac7a-f5b1b27a9e0e
+2025-10-14 01:19:00,431 - __main__ - INFO - Processed file: test_evidence\document1.txt (Hash: 8f55d30866915462...)
+2025-10-14 01:19:00,431 - __main__ - INFO - Processing file: test_evidence\email.txt
+2025-10-14 01:19:00,548 - __main__ - INFO - Evidence record inserted: bcebf8b8-483f-4c62-b3c5-fd7484fa64ec
+2025-10-14 01:19:00,548 - __main__ - INFO - Processed file: test_evidence\email.txt (Hash: 95a7e9a8ac63f516...)
+2025-10-14 01:19:00,548 - __main__ - INFO - Processing file: test_evidence\finance.docx
+2025-10-14 01:19:00,662 - __main__ - INFO - Evidence record inserted: 77802f0f-1d2e-4072-9003-9180e50db3e6
+2025-10-14 01:19:00,663 - __main__ - INFO - Processed file: test_evidence\finance.docx (Hash: 9e2c8144e9fa6b11...)
+2025-10-14 01:19:00,663 - __main__ - INFO - Processing file: test_evidence\notes.pdf
+2025-10-14 01:19:00,762 - __main__ - INFO - Evidence record inserted: 0bd064e8-f62e-4809-9151-2bb589ad1da8
+2025-10-14 01:19:00,763 - __main__ - INFO - Processed file: test_evidence\notes.pdf (Hash: 317a30383da0eea4...)
+2025-10-14 01:19:00,763 - __main__ - INFO - Processing file: test_evidence\photo.jpg
+2025-10-14 01:19:00,940 - __main__ - INFO - Evidence record inserted: 83620f9d-26ad-4646-9d32-fa3abaf966e8
+2025-10-14 01:19:00,940 - __main__ - INFO - Processed file: test_evidence\photo.jpg (Hash: 3b03675b741d5e8e...)
+2025-10-14 01:19:00,941 - __main__ - INFO - Processing file: venv\Lib\site-packages\cffi-2.0.0.dist-info\entry_points.txt
+2025-10-14 01:19:01,123 - __main__ - INFO - Evidence record inserted: c035f495-9231-4fa9-a530-29f74b9ee882
+2025-10-14 01:19:01,124 - __main__ - INFO - Processed file: venv\Lib\site-packages\cffi-2.0.0.dist-info\entry_points.txt (Hash: cba8d3c67c9eb8b9...)
+2025-10-14 01:19:01,125 - __main__ - INFO - Processing file: venv\Lib\site-packages\cffi-2.0.0.dist-info\top_level.txt
+2025-10-14 01:19:01,299 - __main__ - INFO - Evidence record inserted: 29f27a9e-e854-48d8-88d8-4975127da68f
+2025-10-14 01:19:01,299 - __main__ - INFO - Processed file: venv\Lib\site-packages\cffi-2.0.0.dist-info\top_level.txt (Hash: ac4ed6477ad97cd2...)
+2025-10-14 01:19:01,300 - __main__ - INFO - Processing file: venv\Lib\site-packages\pip-24.3.1.dist-info\AUTHORS.txt
+2025-10-14 01:19:01,471 - __main__ - INFO - Evidence record inserted: 137d084d-6c70-4204-8e98-fa79a680e5ff
+2025-10-14 01:19:01,471 - __main__ - INFO - Processed file: venv\Lib\site-packages\pip-24.3.1.dist-info\AUTHORS.txt (Hash: 09b6fadf493c10bf...)
+2025-10-14 01:19:01,472 - __main__ - INFO - Processing file: venv\Lib\site-packages\pip-24.3.1.dist-info\entry_points.txt
+2025-10-14 01:19:01,614 - __main__ - INFO - Evidence record inserted: 24ea08bd-066c-496c-a826-7573ab12725b
+2025-10-14 01:19:01,615 - __main__ - INFO - Processed file: venv\Lib\site-packages\pip-24.3.1.dist-info\entry_points.txt (Hash: 79e223bb37e77d1d...)
+2025-10-14 01:19:01,615 - __main__ - INFO - Processing file: venv\Lib\site-packages\pip-24.3.1.dist-info\LICENSE.txt
+2025-10-14 01:19:01,803 - __main__ - INFO - Evidence record inserted: 100654c0-ca43-4c53-b8d2-9bcd89ff8915
+2025-10-14 01:19:01,804 - __main__ - INFO - Processed file: venv\Lib\site-packages\pip-24.3.1.dist-info\LICENSE.txt (Hash: 634300a669d49aea...)
+2025-10-14 01:19:01,804 - __main__ - INFO - Processing file: venv\Lib\site-packages\pip-24.3.1.dist-info\top_level.txt
+2025-10-14 01:19:01,932 - __main__ - INFO - Evidence record inserted: 3db8c4ef-06f4-4a8b-b206-253c7c82373f
+2025-10-14 01:19:01,933 - __main__ - INFO - Processed file: venv\Lib\site-packages\pip-24.3.1.dist-info\top_level.txt (Hash: ceebae7b8927a322...)
+2025-10-14 01:19:01,933 - __main__ - INFO - Processing file: venv\Lib\site-packages\pycparser-2.23.dist-info\top_level.txt
+2025-10-14 01:19:02,068 - __main__ - INFO - Evidence record inserted: ab4be29a-0370-4b95-97c7-587a8e3d2576
+2025-10-14 01:19:02,069 - __main__ - INFO - Processed file: venv\Lib\site-packages\pycparser-2.23.dist-info\top_level.txt (Hash: 73e94f712ef82fff...)
+2025-10-14 01:19:02,069 - __main__ - INFO - Processing file: venv\Lib\site-packages\pyyaml-6.0.3.dist-info\top_level.txt
+2025-10-14 01:19:02,231 - __main__ - INFO - Evidence record inserted: 6c30efbf-d635-430a-b4fb-a3e597b8e75d
+2025-10-14 01:19:02,232 - __main__ - INFO - Processed file: venv\Lib\site-packages\pyyaml-6.0.3.dist-info\top_level.txt (Hash: ae98f42153138ac0...)
+2025-10-14 01:19:02,232 - __main__ - INFO - Processing file: venv\Lib\site-packages\pip\_vendor\vendor.txt
+2025-10-14 01:19:02,376 - __main__ - INFO - Evidence record inserted: 6ba45b9d-baea-4adf-9d05-1dce657d36f6
+2025-10-14 01:19:02,377 - __main__ - INFO - Processed file: venv\Lib\site-packages\pip\_vendor\vendor.txt (Hash: e37d79dae0eda6cb...)
+2025-10-14 01:19:02,628 - __main__ - INFO - Files in queue: 0
+2025-10-14 01:19:02,632 - __main__ - INFO - CSV report exported: evidence_packages\evidence_report_a7a9ea4a-e533-47ac-8656-b65f5eac14ea_20251014_011902.csv
+2025-10-14 01:19:02,634 - __main__ - INFO - JSON report exported: evidence_packages\evidence_report_a7a9ea4a-e533-47ac-8656-b65f5eac14ea_20251014_011902.json
+2025-10-14 01:19:02,810 - __main__ - INFO - Chain entry recorded: package_created by Packaging
+2025-10-14 01:19:02,811 - __main__ - INFO - Evidence package created: evidence_packages\evidence_package_a7a9ea4a-e533-47ac-8656-b65f5eac14ea_20251014_011902.zip
+2025-10-14 01:19:02,811 - __main__ - INFO - Package hash: f821f921559dad124d821c98da58331bf1ea92724a2002bb646f16484487ed03
+2025-10-14 01:19:02,867 - __main__ - INFO - Agent Discovery stopped
+2025-10-14 01:19:02,879 - __main__ - INFO - Processing complete. Processed 17 files
+2025-10-14 01:19:02,880 - __main__ - INFO - Agent Processing stopped
+2025-10-14 01:19:02,880 - __main__ - INFO - Collection complete
+2025-10-14 02:49:46,917 - DFAS - INFO - Database initialized at C:\Users\khiza\AppData\Local\Temp\tmphrupmknf.db
+2025-10-14 02:49:46,992 - DFAS - INFO - Database initialized at C:\Users\khiza\AppData\Local\Temp\tmp3w6_ge8s.db
+2025-10-14 02:49:47,052 - DFAS - INFO - Evidence record inserted: test-001
+2025-10-14 02:49:47,080 - DFAS - INFO - Database initialized at C:\Users\khiza\AppData\Local\Temp\tmphy821u8b.db
+2025-10-14 02:49:47,081 - DFAS - INFO - Agent Processing initialized
+2025-10-14 02:49:47,299 - DFAS - INFO - Database initialized at C:\Users\khiza\AppData\Local\Temp\tmpgz3ky355.db
+2025-10-14 02:49:47,356 - DFAS - INFO - Agent Processing initialized
+2025-10-14 02:49:47,477 - DFAS - INFO - Database initialized at C:\Users\khiza\AppData\Local\Temp\tmp7edm3cij.db
+2025-10-14 02:49:47,478 - DFAS - INFO - Agent Processing initialized
+2025-10-14 02:49:47,499 - DFAS - INFO - Database initialized at C:\Users\khiza\AppData\Local\Temp\tmprwprmo0_.db
+2025-10-14 02:49:47,500 - DFAS - INFO - Agent Discovery initialized
+2025-10-14 02:49:47,500 - DFAS - INFO - Scanning path: C:\Users\khiza\AppData\Local\Temp\tmp417d1yus
+2025-10-14 02:49:47,503 - DFAS - INFO - Discovery complete. Found 4 files
+2025-10-14 02:49:47,535 - DFAS - INFO - Database initialized at C:\Users\khiza\AppData\Local\Temp\tmp1ktty4pa.db
+2025-10-14 02:49:47,535 - DFAS - INFO - Agent Discovery initialized
+2025-10-14 02:49:47,536 - DFAS - INFO - Scanning path: C:\Users\khiza\AppData\Local\Temp\tmpttfsxpf4
+2025-10-14 02:49:47,538 - DFAS - INFO - Discovery complete. Found 4 files
+2025-10-14 02:49:47,556 - DFAS - INFO - Database initialized at C:\Users\khiza\AppData\Local\Temp\tmpcfa4qylu.db
+2025-10-14 02:49:47,557 - DFAS - INFO - Agent Discovery initialized
+2025-10-14 02:49:48,253 - DFAS - INFO - Scanning path: C:\Users\khiza\AppData\Local\Temp\tmpky_5biom
+2025-10-14 02:49:48,257 - DFAS - INFO - File too large, skipping: C:\Users\khiza\AppData\Local\Temp\tmpky_5biom\large.txt
+2025-10-14 02:49:48,259 - DFAS - INFO - Discovery complete. Found 4 files
+2025-10-14 02:49:48,342 - DFAS - INFO - Database initialized at C:\Users\khiza\AppData\Local\Temp\tmpr4escenj.db
+2025-10-14 02:49:48,352 - DFAS - INFO - Evidence record inserted: pkg-test-001
+2025-10-14 02:49:48,354 - DFAS - INFO - Agent Packaging initialized
+2025-10-14 02:49:48,822 - DFAS - INFO - CSV report exported: C:\Users\khiza\AppData\Local\Temp\tmpxgjc1vrr\evidence_report_pkg-case-001_20251014_024948.csv
+2025-10-14 02:49:48,936 - DFAS - INFO - Database initialized at C:\Users\khiza\AppData\Local\Temp\tmp37karh7p.db
+2025-10-14 02:49:48,944 - DFAS - INFO - Evidence record inserted: pkg-test-001
+2025-10-14 02:49:48,945 - DFAS - INFO - Agent Packaging initialized
+2025-10-14 02:49:48,951 - DFAS - INFO - JSON report exported: C:\Users\khiza\AppData\Local\Temp\tmpps3o31bm\evidence_report_pkg-case-001_20251014_024948.json
+2025-10-14 02:49:49,061 - DFAS - INFO - Database initialized at C:\Users\khiza\AppData\Local\Temp\tmpkim_ntwg.db
+2025-10-14 02:49:49,079 - DFAS - INFO - Evidence record inserted: pkg-test-001
+2025-10-14 02:49:49,081 - DFAS - INFO - Agent Packaging initialized
+2025-10-14 02:49:49,086 - DFAS - INFO - CSV report exported: C:\Users\khiza\AppData\Local\Temp\tmpo6ruq_8d\evidence_report_pkg-case-001_20251014_024949.csv
+2025-10-14 02:49:49,090 - DFAS - INFO - JSON report exported: C:\Users\khiza\AppData\Local\Temp\tmpo6ruq_8d\evidence_report_pkg-case-001_20251014_024949.json
+2025-10-14 02:49:49,518 - DFAS - INFO - Chain entry recorded: package_created by Packaging
+2025-10-14 02:49:49,519 - DFAS - INFO - Evidence package created: C:\Users\khiza\AppData\Local\Temp\tmpo6ruq_8d\evidence_package_pkg-case-001_20251014_024949.zip
+2025-10-14 02:49:49,520 - DFAS - INFO - Package hash: 82877c8ee91e4c14c99df58311c9c80270b1345cecd9b463270c0244d8a2101c
+2025-10-14 02:49:49,543 - DFAS - INFO - Database initialized at C:\Users\khiza\AppData\Local\Temp\tmpcw6o54bk.db
+2025-10-14 02:49:49,543 - DFAS - INFO - Agent Discovery initialized
+2025-10-14 02:49:49,544 - DFAS - INFO - Scanning path: C:\Users\khiza\AppData\Local\Temp\tmp31aimbr0
+2025-10-14 02:49:49,549 - DFAS - INFO - Discovery complete. Found 3 files
+2025-10-14 02:49:49,550 - DFAS - INFO - Agent Processing initialized
+2025-10-14 02:49:49,600 - DFAS - INFO - Evidence record inserted: 1b10db9a-4da2-4987-94a8-be85632b1279
+2025-10-14 02:49:49,649 - DFAS - INFO - Evidence record inserted: 5c698452-7bce-4f37-833c-c4b0b950e39d
+2025-10-14 02:49:49,684 - DFAS - INFO - Evidence record inserted: 26531c9e-88cf-4b4f-a123-df4b468f696e
+2025-10-14 02:49:49,685 - DFAS - INFO - Agent Packaging initialized
+2025-10-14 02:49:49,691 - DFAS - INFO - CSV report exported: C:\Users\khiza\AppData\Local\Temp\tmp31aimbr0\evidence_report_integration-test_20251014_024949.csv
+2025-10-14 02:49:49,696 - DFAS - INFO - JSON report exported: C:\Users\khiza\AppData\Local\Temp\tmp31aimbr0\evidence_report_integration-test_20251014_024949.json
+2025-10-14 02:49:49,978 - DFAS - INFO - Chain entry recorded: package_created by Packaging
+2025-10-14 02:49:49,978 - DFAS - INFO - Evidence package created: C:\Users\khiza\AppData\Local\Temp\tmp31aimbr0\evidence_package_integration-test_20251014_024949.zip
+2025-10-14 02:49:49,979 - DFAS - INFO - Package hash: 77a759bcc0e597b2a41598913d4e4ae7abafcb565b56ec1ad7e96d5e46825a2e
